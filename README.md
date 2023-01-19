@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba del modulo 2
+Este repositorio es una prueba de como clonar repositorios con git
